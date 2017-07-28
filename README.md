@@ -35,10 +35,6 @@ Development of actions is described in the Ops Automator Action Developers guide
 * Responding to change events in your infrastructure with automated runbooks
 * Integration with an IoT environment to perform actions on real world events   
 
-## Setup
-
-[TO BE COMPLETED]
-
 ***
 
 Copyright 2017 Amazon.com, Inc. or its affiliates. All Rights Reserved.
